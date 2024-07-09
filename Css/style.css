@@ -44,10 +44,10 @@ img{
 }
 
 .butn{
-    background: #443c68;
+    background: black;
     font-family: "Roboto";
     border-radius: 7px;
-    color: black;
+    color: gold;
     font-size: 30px;
     padding: 16px 25px 16px 25px;
     text-decoration: none;

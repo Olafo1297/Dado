@@ -6,37 +6,37 @@
 
 .dado{
     text-align: center;
-    display: inline-block;  
     margin: 10px;
-    
 }
 
-body{
-    /* background-image: url(../Img/Fondo.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat; */
-    background-color: #ddc67b;
+body {
+    background: linear-gradient(
+        to bottom right,
+        gold,
+        black 70%
+    );
     margin: 0;
+    height: 97vh;
 }
+
 
 h1{
     margin: 30px;
     font-family: "Roboto";
-    text-shadow: 5px 0 #443c68;
+    text-shadow: 5px 0 gold;
     font-size: 4.5rem;
-    color: #8aa2a9;
+    color: black;
     text-align: center;
 }
 
 p{
     font-size: 2rem;
-    color: #8aa2a9;
+    color: black;
     font-family: "Roboto";
 }
 
 img{
-    width: 60%;
+    width: 30%;
 }
 
 .bottom{
@@ -47,7 +47,7 @@ img{
     background: #443c68;
     font-family: "Roboto";
     border-radius: 7px;
-    color: #ffff;
+    color: black;
     font-size: 30px;
     padding: 16px 25px 16px 25px;
     text-decoration: none;
